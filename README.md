@@ -14,7 +14,7 @@ This  **Java-based Expense Tracker System** helps users to manage and monitor th
 - JDBC (Java-PostgreSQL database connector)
 - Multithreading (To improve performance)
 - Project structured using Maven
-# Output
+# Screenshot
 <img width="486" height="518" alt="Screenshot 2025-08-06 140446" src="https://github.com/user-attachments/assets/3c85ffc1-8f90-4fcb-942a-6a14c2004218" />
 
 
